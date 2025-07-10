@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Guide - from flask import Flask, request, render_template, send_file
+import os
+import spacy
+from collections import Counter, defaultdict
+import pandas as pd
+from wordcloud import WordCloud
+import networkx as nx
+import matplotlib.pyplot as plt
+from spacy import displacy
+import uuid
+
+app = Flask(__name__)
+UPLOAD_FOLDER = 'uploads'
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+# Load the trained spaCy model
+model_directory = 'G:/My Drive/5. Research/2. Phd Research/3.0 Research/NER/Web_tool_NER/Agri_Bio_NER/model-best_spacy_PMBert_Fltxt_bnry'
+nlp = spacy.load(model_directory)
+
+# Ensure upload folder exists
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+
+@app.route("/extract_entities", methods=["POST"])
+def extract_entities():
+    text = request.form.get("text", "").strip()
+
+    if not text:
+        return "No text provided!", 400
+
+    # Process with spaCy
+    doc = nlp(text)
+
+    # Extract entities
+    entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
+
+    # Count frequency
+    entity_freq = Counter(ent.text.strip().replace("\n", " ") for ent in doc.ents)
+
+    # Wordcloud
+    wordcloud_path = os.path.join("static", f"wordcloud_{uuid.uuid4()}.png")
+    generate_wordcloud(entity_freq, wordcloud_path)
+
+    # Entity Table
+    entity_table_html, entity_dict = generate_entity_table(doc)
+
+    # Generate mind map for each label
+    mind_map_paths = generate_mind_maps(entity_dict)
+
+    return render_template("result.html",
+                           entities=entities,
+                           table_html=entity_table_html,
+                           wordcloud_image=wordcloud_path,
+                           mind_map_images=mind_map_paths)
+
+
+@app.route('/predict_file', methods=['POST'])
+def predict_file():
+    file = request.files['file']
+    if not file:
+        return "No file uploaded!", 400
+
+    filename = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+    file.save(filename)
+
+    with open(filename, 'r', encoding='utf-8') as f:
+        text = f.read()
+
+    return extract_entities_from_text(text)
+
+
+# -------------------- HELPER FUNCTIONS --------------------
+
+def generate_wordcloud(freq_dict, output_path):
+    wc = WordCloud(width=1600, height=800, background_color="white", colormap='tab10')
+    wc.generate_from_frequencies(freq_dict)
+    plt.figure(figsize=(16, 8), dpi=300)
+    plt.imshow(wc, interpolation="bilinear")
+    plt.axis("off")
+    plt.savefig(output_path, dpi=300, bbox_inches='tight')
+    plt.close()
+
+
+def generate_entity_table(doc):
+    label_dict = defaultdict(set)
+    for ent in doc.ents:
+        label_dict[ent.label_].add(ent.text)
+
+    data = []
+    for label, ents in label_dict.items():
+        links = []
+        for ent in sorted(ents):
+            url = f"https://www.google.com/search?q={ent.replace(' ', '+')}"
+            links.append(f'<a href="{url}" target="_blank">{ent}</a>')
+        data.append([label, ', '.join(links)])
+
+    df = pd.DataFrame(data, columns=['Label', 'Entities'])
+    df = df.sort_values(by='Label').reset_index(drop=True)
+    html_table = df.to_html(escape=False, index=False)
+
+    return html_table, label_dict
+
+
+def generate_mind_maps(label_dict):
+    paths = []
+    for label, ents in label_dict.items():
+        G = nx.Graph()
+        G.add_node(label, color='lightblue', size=800)
+        for ent in ents:
+            G.add_node(ent, color='lightpink', size=400)
+            G.add_edge(label, ent)
+
+        pos = nx.spring_layout(G, k=0.5, iterations=100)
+        colors = [G.nodes[n]['color'] for n in G.nodes()]
+        sizes = [G.nodes[n]['size'] for n in G.nodes()]
+
+        plt.figure(figsize=(12, 12), dpi=300)
+        nx.draw(G, pos, with_labels=True, node_color=colors, node_size=sizes,
+                font_size=14, font_weight='bold', edge_color='gray')
+        plt.title(f'Mind Map for {label}', fontsize=16, fontweight='bold')
+
+        filename = f"static/mind_map_{label.replace(' ', '_')}_{uuid.uuid4()}.png"
+        plt.savefig(filename, dpi=300, bbox_inches='tight')
+        plt.close()
+        paths.append(filename)
+    return paths
+
+
+def extract_entities_from_text(text):
+    doc = nlp(text)
+    entities = [(ent.text, ent.start_char, ent.end_char, ent.label_) for ent in doc.ents]
+    entity_freq = Counter(ent.text.strip().replace("\n", " ") for ent in doc.ents)
+    wordcloud_path = os.path.join("static", f"wordcloud_{uuid.uuid4()}.png")
+    generate_wordcloud(entity_freq, wordcloud_path)
+    entity_table_html, entity_dict = generate_entity_table(doc)
+    mind_map_paths = generate_mind_maps(entity_dict)
+
+    return render_template("result.html",
+                           entities=entities,
+                           table_html=entity_table_html,
+                           wordcloud_image=wordcloud_path,
+                           mind_map_images=mind_map_paths)
+
+
+if __name__ == '__main__':
+    app.run(debug=True)
+AgriBioNER</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
+</head>
+<body>
+    <header>
+        <h2>AgriBioNER User Guide</h2>
+    </header>
+    
+    <main>
+        <h3>Getting Started</h3>
+        <p>AgriBioNER is a Large Language Model Tool for extracting non-coding RNAs (ncRNAs) and disease entities from Agricultural Scientific Literature. Follow the steps below to use the tool effectively.</p>
+
+        <h3>Step 1: Upload or Paste Text</h3>
+        <p>You can either:</p>
+        <ul>
+            <li>Paste a Text.</li>
+            <li>Upload a Text file (.txt).</li>
+        </ul>
+
+        <h3>Step 2: Click Extract Entities</h3>
+        <p>After entering the Text, click the <strong>Extract Entities<trong> button to extract the ncRNAs and Disease Entities</p>
+
+        <h3>Step 3: View Results</h3>
+        <p>The results will display the extracted entities highlighted within the text along with their corresponding labels. Additionally, a summary table of entity-label pairs, a word cloud, and a labeled entity network graph will be provided. All results can be downloaded using the dedicated download button.</p>
+
+        <h3>Need More Help?</h3>
+        <p>Contact <a href="mailto:kumarchoubisa123@gmail.com">kumarchoubisa123@gmail.com</a></p>
+    </main>
+</body>
+</html>

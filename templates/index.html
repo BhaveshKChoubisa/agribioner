@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TNH979L5J8"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-TNH979L5J8');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AgriBioNER</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* General body styling */
+        body {
+            padding-top: 10px;
+            background-color: #f6f4f6;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Sticky navigation bar */
+        .navbar {
+            position: sticky;
+            top: 0;
+            z-index: 1030;
+            background-color: #060606;
+            padding: 10px 15px;
+        }
+
+        /* Logo styling */
+        .header-logo {
+            height: 100px;
+            margin-right: 10px;
+        }
+
+        /* Tab button styling */
+        .navbar .nav-link {
+            color: #ffffff;
+            font-weight: bold;
+        }
+
+        .navbar .nav-link:hover {
+            color: #f8f9fa;
+            background-color: #91e589;
+            border-radius: 5px;
+        }
+
+        /* Content padding */
+        .content-section {
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        /* Footer styling */
+        footer {
+            background-color: #343a40;
+            color: #ffffff;
+            padding: 5px;
+            text-align: center;
+            position: sticky;
+            bottom: 0;
+            width: 100%;
+        }
+
+        footer p {
+            margin: 5px 0;
+        }
+
+        footer a {
+            text-decoration: none;
+            color: #ffffff;
+        }
+
+        footer a:hover {
+            color: #adb5bd;
+        }
+
+        /* Button styling */
+        .btn-success {
+            background-color: #28a745;
+            border: none;
+        }
+
+        .btn-success:hover {
+            background-color: #218838;
+        }
+
+        /* Download button */
+        .btn-download {
+            margin-top: 20px;
+            padding: 10px 20px;
+        }
+
+        /* Responsive layout for mobile */
+        @media (max-width: 768px) {
+            .header-logo {
+                height: 60px;
+            }
+
+            .navbar {
+                padding: 8px 10px;
+            }
+        }
+    </style>
+</head>
+
+
+<body>
+    
+    
+    <header class="container">
+        <div class="row align-items-center">
+            <div class="col-md-2 text-start">
+                <img src="{{ url_for('static', filename='icar.jpg') }}" alt="ICAR Logo" class="header-logo" style="margin-bottom: 30px;">
+            </div>
+            <div class="col-md-8 text-center">
+                <div style="display: flex; align-items: center; justify-content: center;">
+                    
+                    <h5 style="font-family: 'Arial Black', sans-serif; margin: 0;">AgriBioNER: A tool for ncRNA and Disease NER in Agriculture</h5>
+                </div>
+            </div>
+            <div class="col-md-2 text-end">
+                <img src="{{ url_for('static', filename='iasri.jpg') }}" alt="IASRI Logo" class="header-logo" style="margin-bottom: 30px;">
+            </div>
+        </div>
+        
+            
+        </div>
+    </header>
+    
+
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"><strong>AgriBioNER</strong></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#home">Home</a>
+                        
+
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#extract_entities">Extract Entities</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact Us</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#team">Team</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#help">Help</a>
+                    </li>
+                    
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Content Sections -->
+    <div class="content-section">
+        <!-- Home Section -->
+        <section id="home" class="mb-5">
+            <h4 style="font-family: 'Arial Black', sans-serif;">About AgriBioNER</h4>
+            <p><strong>🌱 AgriBioNER</strong> is a Named Entity Recognition (NER) tool designed to identify non-coding RNAs (ncRNAs) and disease entities, enabling researchers to accurately extract and analyze <strong>ncRNAs and diseases </strong>from agricultural scientific literature.</p>
+            
+<ul>
+    <li><strong>💡 Cutting-Edge NLP Technology:</strong>  Powered by state-of-the-art Named Entity Recognition (NER) model, AgriBioNER identifies entities such as ncRNAs, and diseases from scientific text with high precision.</li>
+    <li><strong>📊 Comprehensive Text mining:</strong> It processes PubMed abstracts or custom agricultural documents to extract meaningful entities, supporting deep insights into plant molecular biology and stress responses.</li>
+    <li><strong>🖥️ User-Friendly Interface:</strong> The platform enables researchers to <strong>upload text files or paste text</strong> directly for NER.</li>
+</ul>
+
+<p style="margin-bottom: 0px;">🌾 If you're exploring stress-responsive ncRNAs in agriculture<strong> AgriBioNER</strong> is your trusted tool for accelerating research in plant genomics and agricultural bioinformatics.
+
+</p>
+        </section>
+        
+<!-- Entity Extraction Section -->
+<section id="Extract Entities" style="margin-top: 0px; padding-top: 0px;" class="mb-5">
+    <h4 style="font-family: 'Arial Black', sans-serif;">Extract Entities</h4>
+
+    <!-- Form for Pasting Sequence -->
+    <form action="/extract_entities" method="POST">
+        <div class="mb-3">
+            <label for="text" class="form-label">Paste Text</label>
+            <textarea class="form-control" id="text" name="text" rows="8">
+Marek's disease virus (MDV), the causative agent of Marek's disease (MD), results in highly infectious phymatosis, lymphatic tissue hyperplasia, and neoplasia. MD is associated with high morbidity and mortality rate. Non-coding RNAs (ncRNAs) entails long non-coding RNA (lncRNA) and microRNA (miRNA). Numerous studies have reported that specific miRNAs and lncRNAs participate in multiple cellular processes, such as proliferation, migration, and tumor cell invasion. Specialized miRNAs and lncRNAs militate a similar role in MD tumor oncogenesis. Despite its growing popularity, only a few reviews are available on ncRNA in MDV tumor oncogenes. Herein, we summarized the role of the miRNAs and lncRNAs in MD tumorigenesis. Altogether, we brought forth the research issues, such as MD prevention, screening, regulatory network formation, novel miRNAs, and lncRNAs analysis in MD that needs to be explored further. This review provides a theoretical platform for the further analysis of miRNAs and lncRNAs functions and the prevention and control of MD and malignancies in domestic animals.
+            </textarea>
+        </div>
+
+        <!-- Spinner for text input -->
+        <div id="loading-spinner" style="display: none; text-align: center; margin: 20px;">
+            <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <p class="mt-2">Processing... Please wait</p>
+        </div>
+
+        <!-- Progress bar for text input -->
+        <div id="progressBarContainer" style="display: none; text-align: center; margin-top: 15px;">
+            <div class="progress" style="height: 25px;">
+                <div id="progressBar" class="progress-bar progress-bar-striped progress-bar-animated bg-primary"
+                     role="progressbar" style="width: 100%">Processing text...
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Extract Entities from Text</button>
+    </form>
+
+    <p class="text-center my-3">OR</p>
+
+    <!-- Form for Uploading Text File -->
+    <form action="/predict_file" method="POST" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="text_file" class="form-label">Upload a Text File</label>
+            <input class="form-control" type="file" id="text_file" name="text_file" accept=".txt">
+        </div>
+        <small class="text-muted">
+            Don't have a Text file? Download a 
+            <a href="{{ url_for('static', filename='sample.txt') }}" download>sample Text file</a>.
+        </small>
+        <br>
+
+        <!-- Spinner for file upload -->
+        <div id="loading-spinner-file" style="display: none; text-align: center; margin: 20px;">
+            <div class="spinner-border text-success" role="status" style="width: 3rem; height: 3rem;">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <p class="mt-2">Processing File... Please wait</p>
+        </div>
+
+        <!-- Progress bar for file upload -->
+        <div id="progressBarContainerFile" style="display: none; text-align: center; margin-top: 15px;">
+            <div class="progress" style="height: 25px;">
+                <div id="progressBarFile" class="progress-bar progress-bar-striped progress-bar-animated bg-success"
+                     role="progressbar" style="width: 100%">Processing file...
+                </div>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-success mt-2">Extract Entities from File</button>
+    </form>
+</section>
+
+
+<!-- JavaScript to show spinner on form submit -->
+<script>
+    document.querySelector('form[action="/extract_entities"]').addEventListener("submit", function () {
+        document.getElementById("loading-spinner").style.display = "block";
+    });
+
+    document.querySelector('form[action="/predict_file"]').addEventListener("submit", function () {
+        document.getElementById("loading-spinner-file").style.display = "block";
+    });
+</script>
+
+        <!-- Flowchart Section -->
+        <h3 style="font-family: 'Arial Black', sans-serif; text-align: center;">Flowchart</h3>
+        <img src="{{ url_for('static', filename='flowchart.png') }}" alt="Flowchart of the tool" 
+            style="display: block; margin: 0 auto 30px auto; max-width: 60%; height: auto;">
+            
+            <!-- Contact Us Section -->
+<section id="contact" class="mb-5">
+    <h4 style="font-family: 'Arial Black', sans-serif;">Contact Us</h4>
+    <p>For inquiries, please contact:</p>
+    <ul>
+        <li>
+            <a href="https://iasri-old.icar.gov.in/rajender-parsad/" target="_blank"><strong>Dr. Rajender Parsad</strong></a> - Director, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:director.iasri@icar.gov.in">director.iasri@icar.gov.in</a>)
+        </li>
+        <li>
+            <a href="http://cabgrid.res.in/cabin/girish.aspx" target="_blank"><strong>Dr. Girish Kumar Jha</strong></a> - Head, DABin, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:girish.jha@icar.gov.in">girish.jha@icar.gov.in</a>)
+        </li>
+    </ul>
+</section>
+            
+        <!-- Team Section -->
+        <section id="team" class="mb-5">
+            <h4 style="font-family: 'Arial Black', sans-serif;">Meet Our Team</h4>
+            <ul>
+                <li>
+                    <a href="https://www.linkedin.com/in/bhavesh-choubisa-2ba315208/?originalSubdomain=in" target="_blank"><strong>Mr. Bhavesh Kumar Choubisa</strong></a> - Ph.D. Research Scholar, Division of Computer Application, ICAR-IASRI, PUSA, New Delhi (<a href="mailto:kumarchoubisa123@gmail.com">kumarchoubisa123@gmail.com</a>)
+                </li> 
+                <li>
+                    <a href="http://cabgrid.res.in/cabin/anusharma.aspx" target="_blank"><strong>Dr. Anu Sharma</strong></a> - Principal Scientist, DABin, ICAR-IASRI, PUSA, New Delhi (<a href="mailto:
+                    anusharma.iasri@icar.org.in">anusharma.iasri@icar.org.in</a>)
+                </li>
+                
+                <li>
+                    <a href="http://cabgrid.res.in/cabin/msfarooqi.aspx" target="_blank"><strong>Dr. Mohammad Samir Farooqi</strong></a> - Principal Scientist, DABin, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:samirfarooqi8@gmail.com">samirfarooqi8@gmail.com</a>)
+                </li>
+                
+                <li>
+                    <a href="http://cabgrid.res.in/cabin/kkchaturvedi.aspx" target="_blank"><strong>Dr. K.K. Chaturvedi</strong></a> - Principal Scientist, Division of Computer Application, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:kk.chaturvedi.iasri@icar.org.in">kk.chaturvedi.iasri@icar.org.in</a>)
+                </li>
+                
+                <li>
+                    <a href="http://cabgrid.res.in/cabin/sblal.aspx" target="_blank"><strong>Dr. S.B. Lal</strong></a> - Principal Scientist, DABin, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:sblall16@gmail.com ">sblall16@gmail.com</a>)
+                </li>
+                
+                <li>
+                    <a href="http://cabgrid.res.in/cabin/dcmishra.aspx" target="_blank"><strong>Dr. Dwijesh Chandra Mishra</strong></a> - Senior Scientist, DABin, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:dwij.mishra@gmail.com ">dwij.mishra@gmail.com </a>)
+                </li>
+                <li>
+                    <a href="http://cabgrid.res.in/cabin/ssrivastava.aspx" target="_blank"><strong>Dr. Sudhir Srivastava</strong></a> - Senior Scientist, DABin, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:sudhir0401bm@gmail.com">sudhir0401bm@gmail.com</a>)
+                </li>
+
+                <li>
+                    <a href="https://nrcpb.irins.org/profile/254781" target="_blank"><strong> Dr. Amolkumar U. Solanke</strong></a> - Principal Scientist, ICAR-National Institute for Plant Biotechnology, LBS Centre, PUSA, New Delhi(<a href="mailto:amolsgene@gmail.com">amolsgene@gmail.com</a>)
+                </li>
+                
+                <li>
+                    <a href="https://iasri-old.icar.gov.in/alka-arora/" target="_blank"><strong>Dr. Alka Arora</strong></a> - Principal Scientist & Professor, Division of Computer Application, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:alka.arora@icar.gov.in">alka.arora@icar.gov.in</a>)
+                </li>
+                
+                <li>
+                    <a href="http://cabgrid.res.in/cabin/girish.aspx" target="_blank"><strong>Dr. Girish Kumar Jha</strong></a> - Head, DABin, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:girish.jha@icar.gov.in">girish.jha@icar.gov.in</a>)
+                </li>
+                
+                <li>
+                    <a href="https://www.linkedin.com/in/ragini-kushwaha-0765aa20b/" target="_blank"><strong>Ms. Ragini Kushwaha</strong></a> - Ph.D. Research Scholar, DABin, ICAR-IASRI, PUSA, New Delhi(<a href="mailto:raginikushwaha2016@gmail.com">raginikushwaha2016@gmail.com</a>)
+                </li>
+                
+            </ul>
+        </section>
+        
+        <!-- Help Section -->
+        <section id="help" class="mb-5">
+            <h4 style="font-family: 'Arial Black', sans-serif;">Help</h4>
+            <p>If you need assistance using <strong>AgriBioNER</strong>, please refer to the following resources:</p>
+            <ul>
+                <a href="{{ url_for('static', filename='user_guide.html') }}" target="_blank"><strong>User Guide</strong> </a>
+                <li><strong>Technical Support:</strong> For technical issues, contact our support team at <a href="mailto:kumarchoubisa123@gmail.com">kumarchoubisa123@gmail.com</a></li>
+            </ul>
+        </section>
+        
+
+<!-- Footer -->
+<footer id="footer">
+    <p>&copy; 2025 AgriBioNER | Developed by Division of Computer Applications, ICAR-IASRI, and supported by the grants ICAR CRP-Genomics/IX/2017 and TGS, ICAR-IARI, received from ICAR, New Delhi | All Rights Reserved</p>
+    
+    <p>
+        Visitors: <span id="visitor-count">Loading...</span> | 
+        Country: <span id="visitor-country">Detecting...</span> |
+        <a href="https://www.facebook.com/people/Icar-Iasri/100068968487680/#" target="_blank">Facebook</a> |
+        <a href="https://x.com/icariasri" target="_blank">Twitter</a> |
+        <a href="https://www.youtube.com/channel/UCRsyoey3lD8r4cgMYhon6XQ" target="_blank">YouTube</a> |
+        Address: ICAR-IASRI, Pusa, New Delhi-110012 | 
+        <a href="https://www.google.com/maps?q=ICAR-IASRI,+Pusa,+New+Delhi-110012" target="_blank">Find Us</a>
+    </p>
+</footer>
+
+<script>
+    // Local Visitor Counter
+    function updateVisitorCount() {
+        let count = localStorage.getItem("visitorCount");
+
+        if (!count) {
+            count = 1;
+        } else {
+            count = parseInt(count) + 1;
+        }
+
+        localStorage.setItem("visitorCount", count);
+        document.getElementById("visitor-count").innerText = count;
+    }
+
+    // Get Visitor's Country
+    async function updateVisitorCountry() {
+        try {
+            const response = await fetch("https://ipapi.co/country/");
+            const country = await response.text();
+            document.getElementById("visitor-country").innerText = country;
+        } catch (error) {
+            console.error("Error fetching country:", error);
+            document.getElementById("visitor-country").innerText = "Unavailable";
+        }
+    }
+
+    updateVisitorCount();
+    updateVisitorCountry();
+</script>
+
+<style>
+    /* Ensure full-page layout */
+    html, body {
+        height: 100%;
+        margin: 0;
+        display: flex;
+        flex-direction: column;
+    }
+
+    /* Main content should take full available space */
+    .content {
+        flex: 1;
+    }
+
+    /* Footer styling */
+    #footer {
+        background-color: #201921;
+        padding: 10px;
+        text-align: center;
+        border-top: 1px solid #ddd;
+        width: 100%;
+        font-size: 14px;
+        color: white;
+    }
+
+    /* Make footer content responsive */
+    #footer p {
+        margin: 5px 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    #footer a {
+        color: #ffeb3b;
+        text-decoration: none;
+        font-weight: bold;
+        margin: 0 5px;
+    }
+
+    @media (max-width: 768px) {
+        #footer p {
+            font-size: 12px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 5px;
+        }
+    }
+</style>
+        
+  <!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+<!-- Show Spinners and Progress Bars on Form Submit -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const textForm = document.querySelector('form[action="/extract_entities"]');
+        const fileForm = document.querySelector('form[action="/predict_file"]');
+
+        textForm.addEventListener('submit', function () {
+            document.getElementById("loading-spinner").style.display = "block";
+            document.getElementById("progressBarContainer").style.display = "block";
+        });
+
+        fileForm.addEventListener('submit', function () {
+            document.getElementById("loading-spinner-file").style.display = "block";
+            document.getElementById("progressBarContainerFile").style.display = "block";
+        });
+    });
+</script>
+</body>
+
+</html>

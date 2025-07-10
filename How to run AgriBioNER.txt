@@ -1,0 +1,65 @@
+
+# First time: creating virtual environment and select in visual studio by ctl+shift_P then select python interpreter
+
+open cmd
+cd "G:\My Drive\5. Research\2. Phd Research\3.0 Research\NER\Web_tool_NER\Agri_Bio_NER"
+
+G:
+
+#Creates venv folder
+python -m venv venv
+
+
+#Activate venv
+
+.\venv\Scripts\activate
+
+# Upgrade pip
+python -m ensurepip --upgrade
+python -m pip install --upgrade pip setuptools
+
+
+pip install pandas
+pip install spacy networkx wordcloud matplotlib
+pip install spacy[transformers]
+python -m spacy download en_core_web_trf
+
+# Run in Browser
+python app.py
+_____________________________________________________________________________________________________________________________________________________________________________--
+
+# Run Second time when virtual env is already, there
+
+open cmd
+
+cd "G:\My Drive\5. Research\2. Phd Research\3.0 Research\NER\Web_tool_NER\Agri_Bio_NER"
+
+G:
+
+#Activate venv
+
+.\venv\Scripts\activate
+
+# Run in Browser
+python app.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

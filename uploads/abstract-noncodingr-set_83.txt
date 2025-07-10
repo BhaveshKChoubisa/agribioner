@@ -1,0 +1,225 @@
+
+
+High-Throughput Sequencing Identifies Novel and Conserved Cucumber (Cucumis 
+sativus L.) microRNAs in Response to Cucumber Green Mottle Mosaic Virus 
+Infection.
+
+
+Seedlings of Cucumis sativus L. (cv. 'Zhongnong 16') were artificially 
+inoculated with Cucumber green mottle mosaic virus (CGMMV) at the 
+three-true-leaf stage. Leaf and flower samples were collected at different time 
+points post-inoculation (10, 30 and 50 d), and processed by high throughput 
+sequencing analysis to identify candidate miRNA sequences. Bioinformatic 
+analysis using screening criteria, and secondary structure prediction, indicated 
+that 8 novel and 23 known miRNAs (including 15 miRNAs described for the first 
+time in vivo) were produced by cucumber plants in response to CGMMV infection. 
+Moreover, gene expression profiles (p-value <0.01) validated the expression of 3 
+of the novel miRNAs and 3 of the putative candidate miRNAs and identified a 
+further 82 conserved miRNAs in CGMMV-infected cucumbers. Gene ontology (GO) 
+analysis revealed that the predicted target genes of these 88 miRNAs, which were 
+screened using the psRNATarget and miRanda algorithms, were involved in three 
+functional categories: 2265 in molecular function, 1362 as cellular components 
+and 276 in biological process. The subsequent Kyoto Encyclopedia of Genes and 
+Genomes (KEGG) pathway analysis revealed that the predicted target genes were 
+frequently involved in metabolic processes (166 pathways) and genetic 
+information processes (40 pathways) and to a lesser degree the biosynthesis of 
+secondary metabolites (12 pathways). These results could provide useful clues to 
+help elucidate host-pathogen interactions in CGMMV and cucumber, as well as for 
+the screening of resistance genes.
+
+
+
+The Roles of MicroRNAs (miRNAs) in Avian Response to Viral Infection and 
+Pathogenesis of Avian Immunosuppressive Diseases.
+
+
+MicroRNAs (miRNAs) are a class of non-coding small RNAs that play important 
+roles in the regulation of various biological processes including cell 
+development and differentiation, apoptosis, tumorigenesis, immunoregulation and 
+viral infections. Avian immunosuppressive diseases refer to those avian diseases 
+caused by pathogens that target and damage the immune organs or cells of the 
+host, increasing susceptibility to other microbial infections and the risk of 
+failure in subsequent vaccination against other diseases. As such, once a 
+disease with an immunosuppressive feature occurs in flocks, it would be 
+difficult for the stakeholders to have an optimal economic income. Infectious 
+bursal disease (IBD), avian leukemia (AL), Marek's disease (MD), chicken 
+infectious anemia (CIA), reticuloendotheliosis (RE) and avian reovirus infection 
+are on the top list of commonly-seen avian diseases with a feature of 
+immunosuppression, posing an unmeasurable threat to the poultry industry across 
+the globe. Understanding the pathogenesis of avian immunosuppressive disease is 
+the basis for disease prevention and control. miRNAs have been shown to be 
+involved in host response to pathogenic infections in chickens, including 
+regulation of immunity, tumorigenesis, cell proliferation and viral replication. 
+Here we summarize current knowledge on the roles of miRNAs in avian response to 
+viral infection and pathogenesis of avian immunosuppressive diseases, in 
+particular, MD, AL, IBD and RE.
+
+
+ICTV Virus Taxonomy Profile: Pospiviroidae.
+
+Members of the family Pospiviroidae have single-stranded circular RNA genomes 
+that adopt a rod-like or a quasi-rod-like conformation. These genomes contain a 
+central conserved region that is involved in replication in the nucleus through 
+an asymmetric RNA-RNA rolling-circle mechanism. Members of the family 
+Pospiviroidae lack the hammerhead ribozymes that are typical of viroids 
+classified in the family Avsunviroidae. The family Pospiviroidae includes the 
+genera Apscaviroid, Cocadviroid, Coleviroid, Hostuviroid and Pospiviroid, with 
+>25 species. This is a summary of the ICTV Report on the family Pospiviroidae, 
+which is available at ictv.global/report/pospiviroidae.
+
+
+Marek's disease virus-encoded microRNAs: genomics, expression and function.
+
+MicroRNAs (miRNAs) are the recently discovered small non-coding RNA molecules 
+that have post-transcriptional regulatory functions in many important biological 
+processes. A large number of miRNAs have been found to be encoded by viral 
+genomes, especially in herpesviruses. Previous research regarding miRNAs encoded 
+by herpesviruses, including Marek's disease virus (MDV), has demonstrated their 
+involvement in lytic replication, latent infection, T-lymphocyte transformation 
+and tumorigenesis. MDV is an oncogenic alphaherpesvirus, with the ability to 
+induce tumors in natural hosts; however, formation of these tumors can be 
+prevented by immunization with attenuated or nonpathogenic forms of the virus. 
+Marek's disease is considered to be a good biomedical model for investigating 
+the biology, genetics, and immunology of tumorigenesis. In this paper, we review 
+the discovery and identification of MDV-encoded miRNAs, along with their 
+genomics, expression profiles, and currently known functions. We also discuss 
+the prospects and techniques possibly applicable to the further investigation of 
+the biological roles of MDV-encoded miRNAs.
+
+
+MicroRNA-Transcription factor regulatory networks in the early strobilar 
+development of Echinococcus granulosus protoscoleces.
+
+BACKGROUND: Echinococcus granulosus sensu lato has a complex developmental 
+biology with a variety of factors relating to both intermediate and final hosts. 
+To achieve maximum parasite adaptability, the development of the cestode is 
+dependent on essential changes in transcript regulation. Transcription factors 
+(TFs) and miRNAs are known as master regulators that affect the expression of 
+downstream genes through a wide range of metabolic and signaling pathways. In 
+this study, we aimed to develop a regulatory miRNA-Transcription factor 
+(miRNA-TF) network across early developmental stages of E. granulosus 
+protoscoleces by performing in silico analysis, and to experimentally validate 
+TFs expression in protoscoleces obtained from in vitro culture, and from in vivo 
+experiments.
+RESULTS: We obtained list of 394 unique E. granulosus TFs and matched them with 
+818 differentially expressed genes which identified 41 predicted TFs with 
+differential expression. These TFs were used to predict the potential targets of 
+31 differentially expressed miRNAs. As a result, eight miRNAs and eight TFs were 
+found, and the predicted network was constructed using Cytoscape. At least four 
+miRNAs (egr-miR-124a, egr-miR-124b-3p, egr-miR-745-3p, and egr-miR-87-3p) and 
+their corresponding differentially expressed TFs (Zinc finger protein 45, Early 
+growth response protein 3, Ecdysone induced protein 78c and ETS transcription 
+factor elf 2) were highlighted in this investigation. The expression of 
+predicted differentially expressed TFs obtained from in vitro and in vivo 
+experiments, were experimentally validated by quantitative polymerase chain 
+reaction. This confirmed findings of RNA-seq data.
+CONCLUSION: miRNA-TF networks presented in this study control some of the most 
+important metabolic and signaling pathways in the development and life cycle of 
+E. granulosus, providing a potential approach for disrupting the early hours of 
+dog infection and preventing the development of the helminth in the final host.
+
+
+Neuroprotection of microRNA in neurological disorders (Review).
+
+MicroRNAs (miRNAs) are small, endogenous, non-coding RNA molecules that function 
+as post-transcriptional regulators of gene expression by imperfect base-pairing 
+with the 3'-untranslated regions of their target mRNAs. Altered expression of 
+numerous miRNAs has been shown to be extensively involved in the pathogenesis of 
+various diseases and cancers. Additionally, the specific expression of miRNAs in 
+the nervous system has indicated that miRNAs are critical for the occurrence and 
+development of neurological diseases. Increasing evidence has shown that 
+specific miRNAs target the expression of particular proteins that are 
+significant in the disease pathogenesis. Therefore, miRNA-mediated regulation 
+may be important in the occurrence and development of neurological diseases and 
+may function as a novel biomarker and tool for clinical therapy. In the present 
+study, the significance of miRNAs is reviewed in a number of neurological 
+disorders and the possibility of their use in therapeutic interventions is 
+evaluated.
+
+
+Genome-wide identification of turnip mosaic virus-responsive microRNAs in 
+non-heading Chinese cabbage by high-throughput sequencing.
+
+Turnip mosaic virus (TuMV) is the most prevalent viral pathogen infecting most 
+cruciferous plants. MicroRNAs (miRNAs) are around 22 nucleotides long 
+non-protein-coding RNAs that play key regulatory roles in plants. Recent 
+research findings show that miRNAs are involved in plant-virus interaction. 
+However we know little about plant defense and viral offense system networks 
+throughout microRNA regulation pathway. In this study, two small RNA libraries 
+were constructed based on non-heading Chinese cabbage (Brassica campestris ssp. 
+chinensis L. Makino, NHCC) leaves infected by TuMV and healthy leaves, and 
+sequenced using the Illumina-Solexa high-throughput sequencing technology. A 
+total of 86 conserved miRNAs belonging to 25 known miRNA families and 45 novel 
+ones were identified. Among them, twelve conserved and ten new miRNAs were 
+validated by real-time fluorescence quantitative PCR (qPCR). Differential 
+expression analysis showed that 42 miRNAs were down-regulated and 27 miRNAs were 
+up-regulated in response to TuMV stress. A total of 271 target genes were 
+predicted using a bioinformatics approach, these genes are mainly involved in 
+growth and resistance to various stresses. We further selected 13 miRNAs and 
+their corresponding target genes to explore their expression pattern under TuMV 
+and/or cold (4°C) stresses, and the results indicated that some of the 
+identified miRNAs could link TuMV response with cold response of NHCC. The 
+characterization of these miRNAs could contribute to a better understanding of 
+plant-virus interaction throughout microRNA regulation pathway. This can lead to 
+finding new approach to defend virus infection using miRNA in Chinese cabbage.
+
+
+MiR-107 Regulates Adipocyte Differentiation and Adipogenesis by Targeting 
+Apolipoprotein C-2 (APOC2) in Bovine.
+
+Adipogenesis is a complex and precisely orchestrated process mediated by a 
+series of adipogenic regulatory factors. Recent studies have highlighted the 
+importance of microRNAs (miRNAs) in diverse biological processes, most 
+specifically in regulating cell differentiation and proliferation. However, the 
+mechanisms of miRNAs in adipogenesis are largely unknown. In this study, we 
+found that miR-107 expression was higher in bovine adipose tissue than that in 
+other tissues, and there was a downregulation trend during adipocyte 
+differentiation. To explore the function of miR-107 in adipocyte 
+differentiation, agomiR-107 and antiagomiR-107 were transfected into bovine 
+adipocytes, respectively. Oil Red O staining, CCK-8, EdU assays, RT-qPCR, and 
+Western blotting were performed, and the results showed that overexpressed 
+miR-107 significantly suppressed fat deposition and adipocyte differentiation, 
+while knockdown of miR-107 promoted fat deposition and adipocytes 
+differentiation. In addition, through bioinformatics analysis, luciferase 
+reporter assays, RT-qPCR, and Western blotting, we identified apolipoprotein 2 
+(APOC2) as a target of miR-107. Transfection of siRNA-APOC2 into adipocytes led 
+to suppression in adipocyte differentiation and proliferation, suggesting a 
+positive role of APOC2 in bovine lipogenesis. In summary, our findings suggested 
+that miR-107 regulates bovine adipocyte differentiation and lipogenesis by 
+directly targeting APOC2, and these results. These theoretical and experimental 
+basis for future clarification of the regulation mechanism of adipocyte 
+differentiation and lipogenesis. Moreover, for the highly conserved among 
+different species, miR-107 may be a potential molecular target to be used for 
+the treatment of lipid-related diseases in the future.
+
+
+Virus-resistant pigs might help to stem next outbreak.
+
+By genetically engineering pigs to degrade a crucial viral protein, livestock 
+can be made less susceptible to foot and mouth disease virus.
+
+The clock gene, period, influences migratory flight and reproduction of the 
+oriental armyworm, Mythimna separata (Walker).
+
+The oriental armyworm, Mythimna separata, is a major long-distance migratory 
+insect pest of grain crops in China and other Asian countries. Migratory flights 
+and reproductive behavior usually occur at night, regulated by a circadian 
+rhythm. However, knowledge about the linkages between adult flight, 
+reproduction, and clock genes is still incomplete. To fill this important gap in 
+our knowledge, a clock gene (designated Msper) was identified and phylogenetic 
+analysis indicated that the encoded protein (MsPER) was highly similar to PER 
+proteins from other insect species. Quantitative RT-PCR assays demonstrated that 
+significantly different spatiotemporal and circadian rhythmic accumulations of 
+mRNA encoding MsPER occurred during development under steady 14 h : 10 h 
+light : dark conditions. The highest mRNA accumulation occurred in adult 
+antennae and the lowest in larvae. Msper was expressed rhythmically in adult 
+antennae, relatively less in photophase and more entering scotophase. Injecting 
+small interference RNA (siRNA) into adult heads effectively knocked down Msper 
+mRNA levels within 72 h. Most siRNA-injected adults reduced their evening flight 
+activity significantly and did not exhibit a normal evening peak of flight 
+activity. They also failed to mate and lay eggs within 72 h. Adult mating 
+behavior was restored to control levels by 72 h post injection. We infer that 
+Msper is a prominent clock gene that acts in regulating adult migratory flight 
+and mating behaviors of M. separata. Because of its influence on migration and 
+mating, Msper may be a valuable gene to target for effective management of this 
+migratory insect.

@@ -1,0 +1,246 @@
+
+The microRNAs in the antennae of Apolygus lucorum (Hemiptera: Miridae): 
+Expression properties and targets prediction.
+
+
+MicroRNAs (miRNAs) regulate gene expression and contribute to numerous 
+physiological processes. However, little is known about the functions of miRNAs 
+in insect chemosensation. In this study, nine small RNA libraries were 
+constructed and sequenced from the antennae of nymphs, adult males, and adult 
+females of Apolygus lucorum. In total, 399 (275 known and 124 novel) miRNAs were 
+identified. miR-7-5p_1 was the most abundant miRNA. Altogether, 69,708 target 
+genes related to biogenesis, membrane, and binding activities were predicted. In 
+particular, 15 miRNAs targeted 16 olfactory genes. Comparing the antennae of 
+nymphs and adult males and females, 94 miRNAs were differentially expressed. 
+Alternatively, a subset of differentially expressed miRNAs was verified by qPCR, 
+supporting the reliability of the sequencing results. This study provides a 
+global miRNA transcriptome for the antennae of A. lucorum and valuable 
+information for further investigations of the functions of miRNAs in the 
+regulation of chemosensation.
+
+MicroRNA-mediated regulation of gene expression in the response of rice plants 
+to fungal elicitors.
+
+MicroRNAs (miRNAs) are small non-coding RNAs that have important regulatory 
+functions in plant growth, development, and response to abiotic stress. 
+Increasing evidence also supports that plant miRNAs contribute to immune 
+responses to pathogens. Here, we used deep sequencing of small RNA libraries for 
+global identification of rice miRNAs that are regulated by fungal elicitors. We 
+also describe 9 previously uncharacterized miRNAs in rice. Combined small RNA 
+and degradome analyses revealed regulatory networks enriched in 
+elicitor-regulated miRNAs supported by the identification of their corresponding 
+target genes. Specifically, we identified an important number of miRNA/target 
+gene pairs involved in small RNA pathways, including miRNA, heterochromatic and 
+trans-acting siRNA pathways. We present evidence for miRNA/target gene pairs 
+implicated in hormone signaling and cross-talk among hormone pathways having 
+great potential in regulating rice immunity. Furthermore, we describe 
+miRNA-mediated regulation of Conserved-Peptide upstream Open Reading Frame 
+(CPuORF)-containing genes in rice, which suggests the existence of a novel 
+regulatory network that integrates miRNA and CPuORF functions in plants. The 
+knowledge gained in this study will help in understanding the underlying 
+regulatory mechanisms of miRNAs in rice immunity and develop appropriate 
+strategies for rice protection.
+
+
+mmu-miRNA-342-3p promotes hepatic stellate cell activation and hepatic fibrosis 
+induced by Echinococcus multilocularis infection via targeting Zbtb7a.
+
+Liver fibrosis is one of the histopathological characters during Echinococcus 
+multilocularis infection. The activation of hepatic stellate cells (HSCs) is a 
+key event in the development of liver fibrosis. However, the molecular mechanism 
+of HSC activation in the E. multilocularis infection-induced liver fibrosis 
+remains largely unclear. Here, we reported that mmu-miR-342-3p was most 
+dominantly expressed in HSCs and was upregulated in the HSCs in response to E. 
+multilocularis infection. We further showed that mmu-miR-342-3p was able to bind 
+to the 3' UTR of the Zbtb7a gene and regulated its expression. Moreover, 
+mmu-miR-342-3p expression was negatively correlated with its target gene Zbtb7a 
+in HSCs during E. multilocularis infection. Knockdown of mmu-miR-342-3p promoted 
+the expression of Gfap in the activated HSCs in vitro. In the E. 
+multilocularis-infected mice, knockdown of mmu-miR-342-3p suppressed the 
+expression of α-Sma, Col1α1, and TGF-β but promoted the expression of Gfap. 
+Therefore, mmu-miR-342-3p is a key regulator for activation of HSCs, and 
+inhibiting mmu-miR-342-3p to suppressed Zbtb7a-mediated TGF-β signaling in 
+activated HSCs could be a novel strategy to treat liver fibrosis induced by E. 
+multilocularis.
+
+The bta-miR-22-3p can alleviate LPS-induced inflammatory response in yak 
+endometrial epithelial cells by targeting KSR2.
+
+Bovine endometritis is a common reproductive system disease in dairy cows that 
+leads to decreased milk production and reproductive performance, causing 
+significant economic losses for farmers. Research has shown that microRNAs 
+(miRNAs) play a significant role in regulating the expression of biological 
+genes and are closely related to the occurrence of inflammation, including 
+bta-miR-22-3p. However, the specific molecular mechanisms by which miRNAs 
+regulate bovine endometritis remain unclear. To investigate the regulatory 
+mechanism of bta-miR-22-3p in yak endometritis, uterine tissues were collected 
+from three healthy bos grunniens and three bos grunniens with endometritis, 
+approximately 21 days postpartum. Various methods were employed, including 
+real-time quantitative polymerase chain reaction (RT-qPCR), Western blot (WB), 
+enzyme-linked immunosorbent assay (ELISA), and immunofluorescence (IF). The 
+results demonstrated that overexpression of bta-miR-22-3p led to a significant 
+decrease (P < 0.05) in factors related to the mitogen-activated protein kinase 
+(MAPK) signaling pathway and associated inflammatory factors, such as 
+extracellular signal-regulated kinase (ERK), c-Jun N-terminal kinase (JNK), p38 
+mitogen-activated protein kinase (P38), tumor necrosis factor-α (TNF-α), 
+interleukin-6 (IL-6), and interleukin-1β (IL-1β). Furthermore, dual-luciferase 
+assays confirmed that the kinase suppressor of the Ras 2 (KSR2) gene is a 
+downstream target of bta-miR-22-3p. Overexpression of bta-miR-22-3p inhibited 
+the expression of KSR2. When KSR2 was inhibited, the levels of MAPK signaling 
+pathway-related factors and inflammation also significantly decreased 
+(P < 0.05). Thus, bta-miR-22-3p suppresses the activation of the MAPK signaling 
+pathway through the inhibition of KSR2, resulting in a reduction of inflammatory 
+factors. In conclusion, this study demonstrated that bta-miR-22-3p targets the 
+KSR2 gene to alleviate LPS (Lipopolysaccharide)-induced inflammatory damage.
+
+Physiological Changes in Barley mlo-11 Powdery Mildew Resistance Conditioned by 
+Tandem Repeat Copy Number.
+
+Wild barley accessions have evolved broad-spectrum defence against barley 
+powdery mildew through recessive mlo mutations. However, the mlo defence 
+response is associated with deleterious phenotypes with a cost to yield and 
+fertility, with implications for natural fitness and agricultural productivity. 
+This research elucidates the mechanism behind a novel mlo allele, designated 
+mlo-11(cnv2), which has a milder phenotype compared to standard mlo-11. 
+Bisulphite sequencing and histone ChIP-seq analyses using near-isogenic lines 
+showed pronounced repression of the Mlo promoter in standard mlo-11 compared to 
+mlo-11(cnv2), with repression governed by 24 nt heterochromatic small 
+interfering RNAs. The mlo-11(cnv2) allele appears to largely reduce the 
+physiological effects of mlo while still endorsing a high level of powdery 
+mildew resistance. RNA sequencing showed that this is achieved through only 
+partly restricted expression of Mlo, allowing adequate temporal induction of 
+defence genes during infection and expression close to wild-type Mlo levels in 
+the absence of infection. The two mlo-11 alleles showed copy number 
+proportionate oxidase and peroxidase expression levels during infection, but 
+lower amino acid and aromatic compound biosynthesis compared to the null allele 
+mlo-5. Examination of highly expressed genes revealed a common WRKY W-box 
+binding motif (consensus ACCCGGGACTAAAGG) and a transcription factor more highly 
+expressed in mlo-11 resistance. In conclusion, mlo-11(cnv2) appears to 
+significantly mitigate the trade-off between mlo defence and normal gene 
+expression.
+
+
+Multiple shRNAs driven by U6 and CMV promoter enhances efficiency of antiviral 
+effects against foot-and-mouth disease virus.
+
+Foot-and-mouth disease (FMD) is an economically significant animal disease 
+because of the speed of its transmission. The current vaccine for FMD provides 
+no protection until 7 days post-vaccination, thus reducing its effectiveness in 
+the case of an outbreak. Small interfering RNA (siRNA) is a promising antiviral 
+approach because it can induce a protective response much more rapidly. This 
+study is the first report to apply multiple short hairpin RNA (shRNA) expression 
+systems to inhibit foot-and-mouth disease virus (FMDV) replication. Three 
+different shRNAs, one targeting 2B region and two targeting 3C region, were 
+driven by three RNA Polymerase III (Pol III) promoters, U6 or a combination of 
+two U6 promoters and one RNA Polymerase II (Pol II) promoter, CMV. The 
+adenoviruses simultaneously expressing three different shRNAs in a single 
+construct had significantly enhanced antiviral effects compared with those 
+expressing only a single shRNA, those expressing double shRNAs or a mixture of 
+adenoviruses expressing a single shRNA and the adenovirus expressing double 
+shRNAs, both in vitro and in vivo. The adenoviruses had broad antiviral effects 
+against seven serotypes of FMDV, including O, A, Asia1, C, SAT1, SAT2, and SAT3 
+in vitro, but differed in their efficacy. The adenovirus expressing multiple 
+shRNAs driven by three U6 promoters had strong antiviral effects in suckling 
+mice challenged with O, A, and Asia1 serotype of FMDV.
+
+
+syn-tasiRnas targeting the coat protein of potato virus Y confer antiviral 
+resistance in Nicotiana benthamiana.
+
+Trans-acting small interfering RNAs (tasiRNAs) are 21-nt phased (phased siRNAs) 
+resulting from successive DCL-catalyzed processing from the end of a 
+double-stranded RNA substrate originating from the RDR of an AGO-catalyzed 
+cleaved RNA at a micro RNA target site. Plant tasiRNAs have been synthesized to 
+produce synthetic tasiRNAs (syn-tasiRNAs) targeting viral RNAs that confer viral 
+resistance. In this study, we engineered syn-tasiRNAs to target potato virus Y 
+(PVY) infection by replacing five native siRNAs of TAS1c with 210-bp fragments 
+from the coat protein (CP) region of the PVY genome. The results showed that the 
+transient expression of syn-tasiR-CPpvy2 in Nicotiana benthamiana (N. 
+benthamiana) plants conferred antiviral resistance, supported by the absence of 
+PVY infection symptoms and viral accumulation. This indicated that 
+syn-tasiR-CPpvy2 successfully targeted and silenced the PVY CP gene, effectively 
+inhibiting viral infection. syn-tasiR-CPpvy1 displayed attenuated symptoms and 
+decreased viral accumulation in these plants However, severe symptoms of PVY 
+infection and a similar amount of viral accumulation as the control were 
+observed in plants expressing syn-tasiR-CPpvy3. syn-tasiR-CPpvy/pvx, which 
+targets both PVY and potato virus X (PVX), was engineered using a single 
+precursor. After the transient expression of syn-tasiR-CPpvy/pvx3 and 
+syn-tasiR-CPpvy/pvx5 in N. benthamiana, the plants were resistant to both PVY 
+and PVX. These results suggested that engineered syn-tasiRNAs could not only 
+specifically induce antiviral resistance against one target virus but could also 
+be designed for multi-targeted silencing of different viruses, thereby 
+preventing complex virus infection in plants.
+
+
+Identification and characterization of miRNAs and targets in flax (Linum 
+usitatissimum) under saline, alkaline, and saline-alkaline stresses.
+
+BACKGROUND: MicroRNAs (miRNAs) play a critical role in responses to biotic and 
+abiotic stress and have been characterized in a large number of plant species. 
+Although flax (Linum usitatissimum L.) is one of the most important fiber and 
+oil crops worldwide, no reports have been published describing flax miRNAs 
+(Lus-miRNAs) induced in response to saline, alkaline, and saline-alkaline 
+stresses.
+RESULTS: In this work, combined small RNA and degradome deep sequencing was used 
+to analyze flax libraries constructed after alkaline-salt stress (AS2), neutral 
+salt stress (NSS), alkaline stress (AS), and the non-stressed control (CK). From 
+the CK, AS, AS2, and NSS libraries, a total of 118, 119, 122, and 120 known 
+Lus-miRNAs and 233, 213, 211, and 212 novel Lus-miRNAs were isolated, 
+respectively. After assessment of differential expression profiles, 17 known 
+Lus-miRNAs and 36 novel Lus-miRNAs were selected and used to predict putative 
+target genes. Gene ontology term enrichment analysis revealed target genes that 
+were involved in responses to stimuli, including signaling and catalytic 
+activity. Eight Lus-miRNAs were selected for analysis using qRT-PCR to confirm 
+the accuracy and reliability of the miRNA-seq results. The qRT-PCR results 
+showed that changes in stress-induced expression profiles of these miRNAs 
+mirrored expression trends observed using miRNA-seq. Degradome sequencing and 
+transcriptome profiling showed that expression of 29 miRNA-target pairs 
+displayed inverse expression patterns under saline, alkaline, and 
+saline-alkaline stresses. From the target prediction analysis, the 
+miR398a-targeted gene codes for a copper/zinc superoxide dismutase, and the 
+miR530 has been shown to explicitly target WRKY family transcription factors, 
+which suggesting that these two micRNAs and their targets may significant 
+involve in the saline, alkaline, and saline-alkaline stress response in flax.
+CONCLUSIONS: Identification and characterization of flax miRNAs, their target 
+genes, functional annotations, and gene expression patterns are reported in this 
+work. These findings will enhance our understanding of flax miRNA regulatory 
+mechanisms under saline, alkaline, and saline-alkaline stresses and provide a 
+foundation for future elucidation of the specific functions of these miRNAs.
+
+First detection of emerging HoBi-like Pestivirus (BVD-3) among some persistently 
+infected dairy cattle herds in Egypt.
+
+Bovine viral diarrhoea virus (BVDV) is a serious veterinary health concern 
+worldwide. We conducted this study to determine the prevalence of persistent 
+infections (PI) and identify the current strain among some dairy cattle herds in 
+Egypt. A total of 240 serum samples were collected from six Egyptian provinces. 
+Between 2019 and 2020, samples were tested by Enzyme linked immunosorbent assay 
+(ELISA) for detection of PI animals, and then molecular characterization was 
+performed. Six calves were found PI with a prevalence of 2.5% (6/240). Using 
+molecular characterization, HoBi-like Pestivirus (BVD-3) was successfully 
+identified in Egypt for the first time. Based on the BVD-3 reference strains on 
+Genbank, the detected strains had an identity ranging from 98.8 to 99.6%. 
+Partial nucleotide sequence of the 5'UTR gene for six tested samples was 
+submitted to Genbank with accessions: OM324396, OM324397, OM324398, OM324399, 
+OM3243100, and OM3243101.
+
+
+miR156/SPL9 Regulates Reactive Oxygen Species Accumulation and Immune Response 
+in Arabidopsis thaliana.
+
+The functions of microRNA156 (miR156) and its targeted SQUAMOSA PROMOTER BINDING 
+PROTEIN-LIKE (SPL) transcription factor genes in plant development have been 
+widely investigated. However, the role of the miR156/SPLs regulatory network in 
+plant immune systems remains obscure. Here, we found that the accumulation of 
+reactive oxygen species (ROS) and the transcripts of basal salicylic acid (SA) 
+signaling pathway genes were lower in Arabidopsis Pro35S:MIR156 seedlings 
+(miR156 overexpression mutants) but higher in Pro35S:MIM156 (miR156 repression 
+mutants) and ProSPL9:rSPL9 (SPL9 overexpression mutants) seedlings compared with 
+wild-type Col-0 plants (WT). As a result, Pro35S:MIR156 mutants induced greater 
+susceptibility to Pseudomonas syringae pv. tomato DC3000 following syringe 
+infiltration than WT, while Pro35S:MIM156 and ProSPL9:rSPL9 mutants showed 
+enhanced resistance. In addition, foliar H2O2 application resulted in activation 
+of SA-mediated defense response and ablation of miR156-induced susceptibility to 
+P. syringae pv. tomato DC3000 infection. Collectively, our results provide new 
+insights into the function of the miR156/SPL network in Arabidopsis immune 
+response by regulating ROS accumulation and activating the SA signaling pathway.

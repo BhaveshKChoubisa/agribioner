@@ -1,0 +1,243 @@
+
+
+The Additional 15 nt of 5' UTR in a Novel Recombinant Isolate of Chilli Veinal 
+Mottle Virus in Solanum nigrum L. Is Crucial for Infection.
+
+
+An isolate of chilli veinal mottle virus (ChiVMV; genus Potyvirus) of Solanum 
+nigrum L. from southwest China (ChiVMV-YunN/Yuxi) was identified and sequenced 
+(GenBank: OP404087). Comparison with other ChiVMV isolates and recombination 
+analyses suggested a recombinant origin. The most significant recombination 
+event among all 21 complete ChiVMV isolates was an ending breakpoint at 
+1408-1488 for ChiVMV-YunN/Yuxi with ChiVMV-TaiW and ChiVMV-YunN/Ca operating as 
+the respective major and minor parents. Interestingly, the 5' UTR of 
+ChiVMV-YunN/Yuxi is 15 nucleotides ('AAAAATAAAACAACC') longer than other 
+reported isolates. A full-length clone of ChiVMV-YunN/Yuxi was constructed and 
+was shown to be infectious in Nicotiana benthamiana. The additional 15 nt of 5' 
+UTR in ChiVMV-YunN/Yuxi was stable when transmitted through three generations. 
+Experiments with modified clones showed that the additional 15 nt are essential 
+for infection by this isolate.
+
+
+
+
+
+The Acute bee paralysis virus-Kashmir bee virus-Israeli acute paralysis virus 
+complex.
+
+Acute bee paralysis virus (ABPV), Kashmir bee virus (KBV) and Israeli acute 
+paralysis virus (IAPV) are part of a complex of closely related viruses from the 
+Family Dicistroviridae. These viruses have a widespread prevalence in honey bee 
+(Apis mellifera) colonies and a predominantly sub-clinical etiology that 
+contrasts sharply with the extremely virulent pathology encountered at elevated 
+titres, either artificially induced or encountered naturally. These viruses are 
+frequently implicated in honey bee colony losses, especially when the colonies 
+are infested with the parasitic mite Varroa destructor. Here we review the 
+historical and recent literature of this virus complex, covering history and 
+origins; the geographic, host and tissue distribution; pathology and 
+transmission; genetics and variation; diagnostics, and discuss these within the 
+context of the molecular and biological similarities and differences between the 
+viruses. We also briefly discuss three recent developments relating specifically 
+to IAPV, concerning its association with Colony Collapse Disorder, treatment of 
+IAPV infection with siRNA and possible honey bee resistance to IAPV.
+
+
+
+Modification of the internal ribosome entry site element impairs the growth of 
+foot-and-mouth disease virus in porcine-derived cells.
+
+
+The 5' untranslated region (5'UTR) of foot-and-mouth disease virus (FMDV) 
+contains an internal ribosome entry site (IRES) that facilitates translation 
+initiation of the viral ORF in a 5' (m7GpppN) cap-independent manner. IRES 
+elements are responsible for the virulence phenotypes of several enteroviruses. 
+Here, we constructed a chimeric virus in which the IRES of FMDV was completely 
+replaced with that of bovine rhinitis B virus (BRBV) in an infectious clone of 
+serotype O FMDV. The resulting IRES-replaced virus, FMDV(BRBV), replicated as 
+efficiently as WT FMDV in hamster-derived BHK-21 cells, but was restricted for 
+growth in porcine-derived IBRS-2, PK-15 and SK-6 cells, which are susceptible to 
+WT FMDV. To identify the genetic determinants of FMDV underlying this altered 
+cell tropism, a series of IRES-chimeric viruses were constructed in which each 
+domain of the FMDV IRES was replaced with its counterpart from the BRBV IRES. 
+The replication kinetics of these chimeric viruses in different cell lines 
+revealed that the growth restriction phenotype in porcine-derived cells was 
+produced after the replacement of domain 3 or 4 in the FMDV IRES. Furthermore, 
+the change in FMDV cell tropism due to IRES replacement in porcine-derived cells 
+was mainly attributed to a decline in cell-specific IRES translation initiation 
+efficiency. These findings demonstrate that IRES domains 3 and 4 of FMDV are 
+novel cell-specific cis-elements for viral replication in vitro and suggest that 
+IRES-mediated translation determines the species specificity of FMDV infection 
+in vivo.
+
+
+Viral synergism suppresses R gene-mediated resistance by impairing downstream 
+defense mechanisms in soybean.
+
+Viral synergism occurs when mixed infection of a susceptible plant by 2 or more 
+viruses leads to increased susceptibility to at least 1 of the viruses. However, 
+the ability of 1 virus to suppress R gene-controlled resistance against another 
+virus has never been reported. In soybean (Glycine max), extreme resistance (ER) 
+against soybean mosaic virus (SMV), governed by the Rsv3 R-protein, manifests a 
+swift asymptomatic resistance against the avirulent strain SMV-G5H. Still, the 
+mechanism by which Rsv3 confers ER is not fully understood. Here, we show that 
+viral synergism broke this resistance by impairing downstream defense mechanisms 
+triggered by Rsv3 activation. We found that activation of the antiviral 
+RNA-silencing pathway and the proimmune mitogen-activated protein kinase 3 
+(MAPK3), along with the suppression of the proviral MAPK6, are hallmarks of 
+Rsv3-mediated ER against SMV-G5H. Surprisingly, infection with bean pod mottle 
+virus (BPMV) disrupted this ER, allowing SMV-G5H to accumulate in 
+Rsv3-containing plants. BPMV subverted downstream defenses by impairing the 
+RNA-silencing pathway and activating MAPK6. Further, BPMV reduced the 
+accumulation of virus-related siRNAs and increased the virus-activated siRNA 
+that targeted several defense-related nucleotide-binding leucine-rich repeat 
+receptor (NLR) genes through the action of the suppression of RNA-silencing 
+activities encoded in its large and small coat protein subunits. These results 
+illustrate that viral synergism can result from abolishing highly specific R 
+gene resistance by impairing active mechanisms downstream of the R gene.
+
+
+[Inhibition of porcine circovirus type 2 replication by the plasmid vector 
+expressing siRNAs].
+
+[Article in Chinese]
+
+
+OBJECTIVE: To develop siRNA as a potential tool for control of porcine 
+circovirus 2 (PCV2) infection.
+METHODS: We designed two short interfering RNAs (siRNAs) related to the 
+replicase (rep) gene of porcine circovirus and one related to capsid (cap) gene 
+of PCV2 basd on the genomic sequences of the viruses deposited in GenBank. The 
+corresponding DNA fragments were synthesized, annealed and ligated into the 
+downstream of the mouse originated U6 promoter of the RNAi-Ready pSIREN-RetroQ 
+ZsGreen vector. As controls, the siRNAs specific to Luciferase contained in the 
+vector kit and negative fragments with no similarities to any known species were 
+also included. We transformed the recombinant plasmids into the host bacterium 
+DH5a and positive clones were selected. The positive clones were sequenced and 
+five clones carried the correct inserts. They were designated as Retro-SH1, 
+Retro-SH4, Retro-SH6,Retro-Luc and Retro-NC. To test whether the siRNAs specific 
+to PCV expressed by the vector could inhibit the virus replication, we evaluated 
+the inhibition effect on PCV2 replication both in Dulac cells and experimental 
+mice using real-time PCR and immunohistochemistry.
+RESULTS: The results showed that the purified plasmids could strongly inhibit 
+the replication of the PCV2 virus and the inhibition rate reached to 99% in cell 
+culture. In the animal experiments, siRNAs expressed by the plasmids could 
+inhibit the replication of the PCV2 virus and the inhibition rate varied from 
+26% to 99%.
+CONCLUSION: The siRNAs specific to PCV2 expressed by vectors should be potential 
+in the control of the diseases related to PCV2 infection.
+
+
+
+miR-142-3p suppresses porcine reproductive and respiratory syndrome virus 
+(PRRSV) infection by directly targeting Rac1.
+
+Porcine reproductive and respiratory syndrome (PRRS) caused by PRRS virus 
+(PRRSV) has been recognized as one of the severest epidemics in pigs worldwide. 
+microRNAs (miRNAs) play important roles in a variety of biological processes, 
+including cell differentiation, proliferation and death, as well as viral 
+infections and antiviral immune responses. In this study, we found that 
+miR-142-3p was expressed lower in cells susceptible to PRRSV infection than in 
+cells less or no permissive to PRRSV infection. Subsequently, we showed that 
+overexpression of miR-142-3p remarkably inhibited PRRSV infection in PAMs, while 
+blockage of endogenous miR-142-3p significantly enhanced PRRSV replication. 
+Then, we demonstrated that miR-142-3p directly targeted Ras-related C3 botulinum 
+toxin substrate 1 (Rac1), a member of Rho GTPases family, by using luciferase 
+reporter assay and UV cross-linking and immunoprecipitation (CLIP) assay. 
+Importantly, we verified that miR-142-3p inhibited PRRSV entry into PAMs and 
+accordingly suppressed PRRSV infection by downregulating Rac1 expression. These 
+findings reveal an important role of miR-142-3p in modulating PRRSV infection 
+and provide us with some ideas for developing novel antiviral therapy against 
+PRRSV infection.
+
+
+Alterations in bone marrow microRNA expression profiles on infection with avian 
+pathogenic Escherichia coli
+
+Avian pathogenic Escherichia coli (APEC) is one of the most common avian 
+bacterial diseases globally. The bone marrow is a reservoir of immature immune 
+cells. To elucidate the role of bone marrow microRNAs (miRNAs) in regulating the 
+host response to APEC infection, we performed miRNA-seq to investigate 
+alterations in the expression of bone marrow miRNAs in three groups of specific 
+pathogen-free chickens: non-challenged (NC) and challenged with APEC for 12 h 
+(C12) and 24 h (C24). Twenty and 19 differentially expressed miRNAs (fold change 
+>2, P < 0.01) were identified on comparing the NC and C12 and the NC and C24 
+groups, respectively. On functional annotation analysis of target genes of 
+differentially expressed miRNAs, we found that the gene ontology term "immune 
+system process" was significantly enriched at both 12 h and 24 h; moreover, 
+several important signaling pathways were triggered in response to APEC 
+infection, such as MAPK, cGMP-PKG, Notch, and cAMP pathways. In addition, we 
+performed reverse transcription quantitative real-time PCR (qRT-PCR) to validate 
+the differential expression of miRNAs. qRT-PCR data were similar to the 
+sequencing data. On constructing an miRNA-target gene network, gga-miR-2127, 
+gga-miR-6643-5p, and gga-miR-6567-3p were found to potentially play a vital role 
+in the immune process. Overall, our findings provide deeper insights into miRNA 
+transcriptome changes involved in the immune response of the chicken bone marrow 
+to APEC infection.
+
+
+Milk microRNA-146a as a potential biomarker in bovine tuberculosis.
+
+In this research communication we exploited the potential use of milk microRNAs 
+(miRs) as biomarkers for bovine tuberculosis (bTB). bTB is a zoonotic disease 
+caused by Mycobacterium bovis which affects animal health, influencing herd 
+economic sustainability. Diagnosis is based on skin delayed-type 
+hypersensitivity reaction and quantification of interferon gamma but both 
+techniques are influenced by several confounding factors. Thus, new methods for 
+early diagnosis are required. In this context, microRNAs have been used as 
+promising biomarkers for both infectious and non-infectious diseases. To 
+determine the possible involvement of microRNAs in bTB, we analysed the 
+expression of four immune-related miRs in 200 cows grouped in cases and controls 
+with respect to positivity to tuberculosis. The analysis showed a different 
+magnitude of expression in the groups indicating that active tuberculosis could 
+influence miRs expression. We used expression values of miR-146a, the highest 
+differentially expressed miR, for Receiver operating characteristic (ROC) curve 
+analysis. In order to determine a test cut-off value for miR-146a expression 
+that would differentiate cases and controls, a value for the miR-146a expression 
+higher than 8 was selected as this gave a test specificity and sensitivity of 
+80·0% and 86·0% respectively. These values confirm the possibility of using 
+miR-146a as a milk prognostic biomarker for bovine tuberculosis.
+
+
+Inhibition of encephalomyocarditis virus replication by shRNA targeting 1D and 
+3AB genes in vitro and in vivo.
+
+Encephalomyocarditis virus (EMCV) could infect many host species and cause acute 
+myocarditis and sudden death in pre-weaned piglets. It was necessary to develop 
+new antiviral strategies for the treatment of the virus infection. Here, four 
+plasmids expressing shRNA (small hairpin RNA) targeted to 1D or 3AB protein 
+genes of EMCV were constructed and their inhibition efficiency on the 
+replication of EMCV was evaluated in both BHK21 cells and mice. The results 
+showed that three out of those four shRNA constructs could significantly inhibit 
+EMCV replication in BHK21 cells on the levels of viral RNA and protein. 
+Moreover, it was found that the shRNAs could suppress significantly the load of 
+EMCV in the brain tissue of the mice pretreated with the constructs for 6-24 h. 
+The clinical signs and pathological lesions of the mice in the groups inoculated 
+with the shRNA constructed were milder obviously, compared with those in 
+pSUPER-mN3 and challenge control groups. The survival rates of mice inoculated 
+with pSUPER-3AB-1, pSUPER-3AB-2, and pSUPER-1D-1 for 12 h was 100, 80, and 40%, 
+respectively, while, in the control groups it was only 20%. It indicated that 
+the vector-based shRNA targeting to 3AB and 1D genes might be a potential 
+anti-EMCV strategy.
+
+
+
+Exploration of wheat yellow mosaic virus-responsive miRNAs and their targets in 
+wheat by miRNA and degradome sequencing.
+
+Wheat (Triticum aestivum) is one of the most important food crops around the 
+world. China is the largest wheat production country and wheat yellow mosaic 
+virus (WYMV) is a non-negligible threat to wheat production. This study aimed to 
+explore miRNAs and their corresponding target genes responsive to WYMV in wheat. 
+Linmai and Jimai were used for miRNA and degradome high-throughput sequencing. 
+After comparison and analysis, differentially expressed miRNAs and their target 
+genes between normal wheat and WYMV-infected wheat were identified. GO and KEGG 
+pathway enrichment analysis were then performed on target genes. A total of 530 
+miRNAs were identified in all samples, including 106 known miRNAs and 424 novel 
+miRNAs. Among them, 131 miRNAs, corresponding to 85 target genes, were 
+differentially expressed between normal wheat and WYMV-infected wheat. 85 target 
+genes were significantly enriched in 21 GO terms and two KEGG pathways, Plant 
+hormone signal transduction and Monobactam biosynthesis. In conclusion, 131 
+differentially expressed miRNAs, corresponding to 85 target genes, were 
+identified between normal wheat and WYMVinfected wheat. Our findings provide 
+more evidence on the roles of miRNAs and their target genes in wheat- WYMV 
+interactions.

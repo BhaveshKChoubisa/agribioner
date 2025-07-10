@@ -1,0 +1,235 @@
+
+Comparative analysis of microRNAs from the lungs and trachea of dogs (Canis 
+familiaris) infected with canine influenza virus.
+
+MicroRNAs (miRNAs) are a class of endogenous non-coding small RNAs of 
+18-22-nucleotides in length that regulate gene expression at the 
+post-transcriptional level. The objective of this study was to examine the 
+differences in the miRNA expression profiles of the lungs and trachea of beagle 
+dogs infected with canine influenza virus (CIV). Total RNA was isolated from 
+lung and trachea tissues of beagle dogs infected and non-infected with H3N2 CIV 
+at 4 dpi. A total of 41,512,315 and 39,107,475 reads were obtained from the lung 
+and trachea, respectively. Out of a total 288 dog miRNAs available in miRBase, 
+227 and 236 miRNAs were detected in the infected (Fg) and the non-infected lungs 
+(Fc), respectively, whereas 242 miRNAs were detected in both the infected (Qg) 
+and the non-infected trachea (Qc). From these, 34 and 45 miRNAs were 
+differentially expressed in the lungs and trachea between the infected and 
+non-infected dogs, respectively. More miRNAs were highly expressed in the 
+non-infected tissues than in the infected tissues. miR-143 was the most 
+abundantly expressed miRNA in the four samples, followed by let-7. In total, 
+252, 234, 196 and 235 novel miRNAs were identified in the Fc, Fg, Qc, and Qg 
+groups, respectively. To our knowledge, this is the first study examining the 
+miRNA gene expression in CIV infected dogs using the Solexa sequencing approach. 
+We have revealed the existence of a large number miRNAs that are affected by CIV 
+infection as well as identified some potentially new miRNAs. These findings will 
+help us better understand the host-CIV interaction and its relationship to 
+pathogenesis, as well as contribute to the prevention and control of CIV.
+
+
+ICTV Virus Taxonomy Profile: Avsunviroidae.
+
+Members of the family Avsunviroidae have a single-stranded circular RNA genome 
+that adopts a rod-like or branched conformation and can form, in the strands of 
+either polarity, hammerhead ribozymes involved in their replication in plastids 
+through a symmetrical RNA-RNA rolling-circle mechanism. These viroids lack the 
+central conserved region typical of members of the family Pospiviroidae. The 
+family Avsunviroidae includes three genera, Avsunviroid, Pelamoviroid and 
+Elaviroid, with a total of four species. This is a summary of the ICTV Report on 
+the taxonomy of the family Avsunviroidae, which is available at 
+http://www.ictv.global/report/avsunviroidae.
+
+
+
+OsMYC2 mediates numerous defence-related transcriptional changes via jasmonic 
+acid signalling in rice.
+
+Jasmonic acid (JA) plays central roles in various events in plants, especially 
+defence against pathogens and insects. The basic helix-loop-helix (bHLH) 
+transcription factor MYC2 has attracted attention as a master regulator of JA 
+signalling in dicotyledonous plants. However, how MYC2 functions in 
+monocotyledonous plants, including agriculturally important crops such as 
+cultivated rice, has been poorly understood. To elucidate the comprehensive 
+effects of rice MYC2 (OsMYC2) on the JA-inducible transcriptional modifications, 
+we performed RNA-sequencing by using OsMYC2-knockdown plants (osmyc2RNAi). In 
+osmyc2RNAi, JA-inducible expression of many defence-related genes, for example 
+chitinases and proteinase inhibitors, was compromised. Decrease in JA-dependent 
+activation of the biosynthetic pathways of specialised metabolites, especially 
+defence compounds, was also evident in the osmyc2RNAi line. Furthermore, a 
+substantial change was noted in the expression of distinct types of 
+transcription factors, such as MYB-type factors, likely depicting the importance 
+of OsMYC2 in not only defence responses but also other morphogenetic events. Our 
+findings provide fundamental information to understand the overall functions of 
+MYC2 in JA signalling in monocotyledonous plants, which might yield agricultural 
+benefits.
+
+
+
+A Chinese isolate of barley yellow dwarf virus-PAV represents a third distinct 
+species within the PAV serotype.
+
+The complete nucleotide sequence of barley yellow dwarf virus (BYDV) PAV-CN 
+genomic RNA was determined. This represents the seventh complete genome sequence 
+of a BYDV-PAV serotype. The genome organization of PAV-CN was comparable to that 
+of other BYDV-PAV serotypes, but the nucleotide sequence of full genome was only 
+76.9-80.3% similar. Sequence similarity of individual open reading frames and 
+untranslated regions (UTR) between PAV-CN and other PAV isolates ranged from 
+37.9 to 98.2%. Overall, PAV-CN was most similar to BYDV-PAS, which belongs to 
+one of two distinct species within the PAV serotype of BYDV, although the 5' UTR 
+and ORF1 of PAV-CN was most similar to BYDV-GAV, another member of the genus 
+Luteovirus that is not serologically related to BYDV-PAV. These data suggest 
+that PAV-CN may have undergone a recombination event with GAV and that PAV-CN 
+represents a third distinct species within the PAV serotype of BYDV.
+
+MicroRNAs Are Involved in Maize Immunity Against Fusarium verticillioides Ear 
+Rot.
+
+Fusarium ear rot (FER) caused by Fusarium verticillioides is one of the most 
+common diseases affecting maize production worldwide. FER results in severe 
+yield losses and grain contamination with health-threatening mycotoxins. 
+Although most studies to date have focused on comprehensive analysis of gene 
+regulation in maize during defense responses against F. verticillioides 
+infection, less is known about the role of microRNAs (miRNAs) in this process. 
+We used deep sequencing to compare small RNA libraries from the maize kernels of 
+susceptible (N6) or resistant (BT-1) inbred lines from uninfected plants and 
+upon F. verticillioides infection. We found that pathogen exposure was 
+accompanied by dynamic alterations in expression levels of multiple miRNAs, 
+including new members of previously annotated miRNA families. A combination of 
+transcriptomic, degradomic, and bioinformatics analyses revealed that F. 
+verticillioides-responsive miRNAs and their potential target genes displayed 
+opposite expression patterns in the susceptible and resistant genotypes. 
+Functional category analysis uncovered preferential enrichment of the 
+pathogen-responsive miRNAs and their targets in the phenylpropanoid metabolic 
+processes, plant-pathogen interactions, and plant phytohormone signal 
+transduction pathways. Furthermore, transgenic maize plants overexpressing 
+miR408b exhibited reduced resistance to F. verticillioides infection in a 
+susceptible maize line. These findings provide new insights into the regulatory 
+roles of miRNAs in maize immunity against FER and new resources for breeding 
+disease resistance into maize.
+
+
+
+The miR9863 family regulates distinct Mla alleles in barley to attenuate NLR 
+receptor-triggered disease resistance and cell-death signaling.
+
+Barley (Hordeum vulgare L.) Mla alleles encode coiled-coil (CC), nucleotide 
+binding, leucine-rich repeat (NB-LRR) receptors that trigger isolate-specific 
+immune responses against the powdery mildew fungus, Blumeria graminis f. sp. 
+hordei (Bgh). How Mla or NB-LRR genes in grass species are regulated at 
+post-transcriptional level is not clear. The microRNA family, miR9863, comprises 
+four members that differentially regulate distinct Mla alleles in barley. We 
+show that miR9863 members guide the cleavage of Mla1 transcripts in barley, and 
+block or reduce the accumulation of MLA1 protein in the heterologous Nicotiana 
+benthamiana expression system. Regulation specificity is determined by variation 
+in a unique single-nucleotide-polymorphism (SNP) in mature miR9863 family 
+members and two SNPs in the Mla miR9863-binding site that separates these 
+alleles into three groups. Further, we demonstrate that 22-nt miR9863s trigger 
+the biogenesis of 21-nt phased siRNAs (phasiRNAs) and together these sRNAs form 
+a feed-forward regulation network for repressing the expression of group I Mla 
+alleles. Overexpression of miR9863 members specifically attenuates MLA1, but not 
+MLA10-triggered disease resistance and cell-death signaling. We propose a key 
+role of the miR9863 family in dampening immune response signaling triggered by a 
+group of MLA immune receptors in barley.
+
+Time-Course Small RNA Profiling Reveals Rice miRNAs and Their Target Genes in 
+Response to Rice Stripe Virus Infection.
+
+It has been known that many microRNAs (miRNAs) are involved in the regulation 
+for the plant development and defense mechanism by regulating the expression of 
+the target gene. Several previous studies has demonstrated functional roles of 
+miRNAs in antiviral defense mechanisms. In this study, we employed 
+high-throughput sequencing technology to identify rice miRNAs upon rice stripe 
+virus (RSV) infection at three different time points. Six libraries from mock 
+and RSV-infected samples were subjected for small RNA sequencing. Bioinformatic 
+analyses revealed 374 known miRNAs and 19 novel miRNAs. Expression of most 
+identified miRNAs was not dramatically changed at 3 days post infection (dpi) 
+and 7 dpi by RSV infection. However, many numbers of miRNAs were up-regulated in 
+mock and RSV-infected samples at 15 dpi by RSV infection. Moreover, expression 
+profiles of identified miRNAs revealed that only few numbers of miRNAs were 
+strongly regulated by RSV infection. In addition, 15 resistance genes were 
+targets of six miRNAs suggesting that those identified miRNAs and 15 NBS-LRR 
+resistance genes might be involved in RSV infection. Taken together, our results 
+provide novel insight into the dynamic expression profiles of rice miRNAs upon 
+RSV infection and clues for the understanding of the regulatory roles of miRNAs 
+via time-course.
+
+Polymorphisms at the 3'end of the movement protein (MP) gene of grapevine Pinot 
+gris virus (GPGV) affect virus titre and small interfering RNA accumulation in 
+GLMD disease.
+
+Grapevine Leaf Mottling and Deformation (GLMD) is a grapevine disease that has 
+been associated with a trichovirus, the grapevine Pinot gris virus (GPGV). A 
+wide diversity in the severity of GLMD disease symptoms has been recorded 
+worldwide, but the relationship of this diversity to the sequence variation in 
+the GPGV genome is still a matter of debate. Results from comparative analysis 
+of GPGV genomic sequences have suggested an association of polymorphisms at the 
+3'-end of the movement protein (MP) with GLMD severity. Here, the 3'-terminus of 
+the MP gene of a GPGV infectious clone derived from an isolate from grapevine 
+showing severe symptoms (fvg-12), was substituted with a 356 bp synthetic DNA 
+fragment having a sequence resembling that of another GPGV isolate (fvg-15), 
+recovered from an asymptomatic grapevine. The clone containing this chimeric 
+construct was root-inoculated in virus-free Kober rootstocks along with the 
+clones containing the fvg-12 and fvg-15 full length sequence. Remarkable 
+differences in virus titre, accumulation of GPGV-derived small interfering RNAs 
+(siRNAs), alterations in the gene expression of boron transporters and, to a 
+lesser extent, in symptom expression were recorded among plants infected with 
+either one of the three GPGV derived clones. In particular, the chimeric clone 
+behaviour was indistinguishable from that of the donor of the small 356 bp 
+fragment and significantly different from the other. Thus, this work 
+experimentally confirmed the critical role of the GPGV-MP C-terminus in 
+determining the fate of the infection, as it had been previously hypothesized on 
+the basis of comparative sequence analysis.
+
+
+
+Understanding microRNAs regulation in heat shock response in the sea cucumber 
+Apostichopus japonicus.
+
+The sea cucumber Apostichopus japonicus is a valuable species in China. The 
+extreme high temperature in the summer often results in high mortality. 
+MicroRNAs (miRNAs) play important post-transcriptional regulatory roles in gene 
+expression and can influence heat shock response (HSR) greatly. In this study, 
+we determined the expression profiles of miRNAs under heat stress (HS) in A. 
+japonicus by using high-throughput sequencing technique. Among the differential 
+expression miRNAs, we highlighted 41 differentially expressed miRNAs, many of 
+which were involved in immunity process and disease regulation. Gene ontology 
+and pathway analyses of putative target genes were also carried out. 
+Cell-substrate adherens junction and cell-substrate junction were significantly 
+enriched in GO analysis. Moreover, we made a correlation analysis between 
+remarkable miRNAs and the differentially expressed genes (DEGs) in sea cucumbers 
+under HS. We identified 17 key miRNA-target pairs potentially regulated HSR of 
+sea cucumbers. These results will provide new insights about miRNAs regulation 
+and molecular adaptive mechanisms in sea cucumbers under HS.
+
+
+Small RNA profiling of virus-infected grapevines: evidences for virus 
+infection-associated and variety-specific miRNAs.
+
+Grapevine is one of the economically and culturally important perennial fruit 
+crops. More than 60 viruses infect grapevines and adversely affect their growth 
+and development. Latent infection of most viruses in grapevines leads to chronic 
+modulation of gene expression at transcriptional and post-transcriptional 
+levels. Plant small RNAs (sRNAs) consist of microRNA (miRNA) and small 
+interfering RNA (siRNA). miRNAs are expressed from the plant genome while most 
+siRNAs are derived from double-stranded RNA molecules which are intermediates 
+during virus replication. In a previous study, we constructed four cDNA 
+libraries of sRNAs that were enriched from three virus-infected grapevines and 
+one virus-free grapevine. Majority of siRNAs align most closely with the genomes 
+of DNA viruses in the genus Badnavirus, family Caulimoviridae that led to the 
+discovery of a new Grapevine vein clearing virus in grapevines. In this study, 
+we conducted a comprehensive analysis of miRNAs in the four cDNA libraries and 
+identified novel and stress-related miRNAs. The results indicated that miRNA 
+abundance was influenced by virus infection. A total of 54 new miRNAs were 
+identified and characterized, six of which, VITIS-MIR17, 18, 19, 20, 21, and 22, 
+were detected only in virus-infected samples. One target of VITIS-MIR18 is the 
+gene coding a non-apical meristem protein (GSVIVT00035370001), a transcription 
+factor in the regulation of plant development and stress responses. Among the 
+virus infection-induced known miRNAs, miRNA168 and miRNA3623 likely regulate 
+grapevine's defense response, miRNA319 and miRNA395 modulate the expression of 
+genes that are involved in nutrient metabolisms while miRNA396 plays a role in 
+the regulation of cell division and cell cycle. The abiotic stress-induced 
+miR169 and mi398 were negatively regulated by virus infection in grapevines. In 
+addition, variety-specific miRNAs were discovered and compiled. The newly 
+discovered miRNAs expand the miRNA profiles in the Vitis species. The 
+characteristics of variety-specific and virus infection-associated miRNAs help 
+understand the biology underlying the development and defense response of 
+grapevines.
