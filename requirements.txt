@@ -2,7 +2,7 @@
 
 
 
-libcudf-cu12 @ https://pypi.nvidia.com/libcudf-cu12/libcudf_cu12-25.2.1-py3-none-manylinux_2_28_x86_64.whl
+
 absl-py==1.4.0
 accelerate==1.6.0
 aiohappyeyeballs==2.6.1
@@ -65,11 +65,11 @@ cons==0.4.6
 contourpy==1.3.2
 cramjam==2.10.0
 cryptography==43.0.3
-cuda-python==12.9.0
+
 cudf-polars-cu12==25.2.2
 cufflinks==0.17.3
 
-cupy-cuda12x==13.3.0
+
 cuvs-cu12==25.2.1
 cvxopt==1.3.2
 cvxpy==1.6.5
@@ -78,8 +78,6 @@ cyipopt==1.5.0
 cymem==2.0.11
 Cython==3.0.12
 dask==2024.12.1
-dask-cuda==25.2.0
-dask-cudf-cu12==25.2.2
 dask-expr==1.1.21
 datascience==0.17.6
 db-dtypes==1.4.2
@@ -328,24 +326,7 @@ numba==0.60.0
 numba-cuda==0.2.0
 numexpr==2.10.2
 numpy==2.0.2
-nvidia-cublas-cu12==12.5.3.2
-nvidia-cuda-cupti-cu12==12.5.82
-nvidia-cuda-nvcc-cu12==12.5.82
-nvidia-cuda-nvrtc-cu12==12.5.82
-nvidia-cuda-runtime-cu12==12.5.82
-nvidia-cudnn-cu12==9.3.0.75
-nvidia-cufft-cu12==11.2.3.61
-nvidia-curand-cu12==10.3.6.82
-nvidia-cusolver-cu12==11.6.3.83
-nvidia-cusparse-cu12==12.5.1.3
-nvidia-cusparselt-cu12==0.6.2
-nvidia-ml-py==12.570.86
-nvidia-nccl-cu12==2.21.5
-nvidia-nvcomp-cu12==4.2.0.11
-nvidia-nvjitlink-cu12==12.5.82
-nvidia-nvtx-cu12==12.4.127
 nvtx==0.2.11
-nx-cugraph-cu12 @ https://pypi.nvidia.com/nx-cugraph-cu12/nx_cugraph_cu12-25.2.0-py3-none-any.whl
 oauth2client==4.1.3
 oauthlib==3.2.2
 openai==1.76.0
