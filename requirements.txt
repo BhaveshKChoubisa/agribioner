@@ -272,7 +272,7 @@ lazr.uri==1.0.6
 lazy_loader==0.4
 libclang==18.1.1
 libcugraph-cu12==25.2.0
-libcuml-cu12==25.2.1
+
 libcuvs-cu12==25.2.1
 libkvikio-cu12==25.2.1
 libraft-cu12==25.2.0
