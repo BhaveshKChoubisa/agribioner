@@ -1,1 +1,7 @@
-
+flask
+pandas
+spacy
+networkx
+wordcloud
+matplotlib
+spacy-transformers
