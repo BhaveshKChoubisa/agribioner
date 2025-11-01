@@ -1,3 +1,4 @@
+
 flask
 pandas
 spacy
@@ -5,4 +6,5 @@ networkx
 wordcloud
 matplotlib
 spacy-transformers
-python -m spacy download en_core_web_trf
+https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.7.3/en_core_web_trf-3.7.3.tar.gz
+
