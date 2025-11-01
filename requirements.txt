@@ -5,3 +5,4 @@ networkx
 wordcloud
 matplotlib
 spacy-transformers
+python -m spacy download en_core_web_trf
